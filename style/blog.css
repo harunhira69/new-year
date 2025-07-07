@@ -162,3 +162,96 @@ margin-left: 118px;
     /* width: 100%; */
     padding: 50px;
 }
+.holiday{
+    margin-top: 122px;
+}
+.holiday-title h5{
+    font-size: 24px;
+    color: rgba(7, 2, 17, 1);
+}
+.holiday-title h3{
+font-size: 72px;
+color: #070211;
+margin-top: 16px;
+}
+.holiday-span{
+    font-size: 72px;
+    color: #FF0000;
+}
+.holiday-title p{
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.6);
+    margin-top: 28px;
+}
+.holiday-image{
+    width: 1320px;
+    height: 229px;
+    margin-top: 480px;
+   
+}
+.holiday{
+    width: 1320px;
+    height: 977px;
+    margin-left: 140px;
+}
+.hero-title h3{
+    font-size: 24px;
+    color: rgba(255, 0, 0, 1);
+}
+.hero-title h2{
+    font-size: 48px;
+    color: rgba(7, 2, 17, 1);
+}
+.hero-title p{
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.6);
+}
+.hero-contailer{
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+.hero-container img{
+    border-radius: 16px;
+   margin-right: 10px;
+}
+.subscribe{
+    margin-top: 120px;
+    background-color: #FF0000;
+    width: 1320px;
+    height: 616px;
+}
+.subscribe-container{
+    text-align: center;
+}
+.subscribe-container h3{
+    font-size: 48px;
+    color: #070211;
+    margin-top: 40px;
+}
+.subscribe-container p{
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.6);
+    margin-top: 22px;
+}
+.subscribe-input{
+    text-align: center;
+}
+input[type="email"]{
+    border-radius: 50px;
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(7, 2, 17, 0.3);
+    font-size: 18px;
+    width: 648px;
+    height: 72px;
+    border: none;
+}
+.subscribe-button{
+    width: 210px;
+    height: 72px;
+    background-color: #FF0000;
+    font-size: 20px;
+    border-radius: 50px;
+    color: white;
+    
+}
